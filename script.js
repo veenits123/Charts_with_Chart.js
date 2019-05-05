@@ -43,3 +43,17 @@ var myChart = new Chart(ctx, {
         // }
     }
 });
+
+// options = {
+//     scales: {
+//         xAxes: [{
+//             barPercentage: 0.5,
+//             barThickness: 6,
+//             maxBarThickness: 8,
+//             minBarLength: 2,
+//             gridLines: {
+//                 offsetGridLines: true
+//             }
+//         }]
+//     }
+// };
